@@ -18,7 +18,7 @@ Typical contents include:
 - **Docs** — guides, notes, and best practices
 - **Recipes** — opinionated solutions for real operational problems
 
-## Suggested layout
+##  Layout
 
 ```text
 skills/
